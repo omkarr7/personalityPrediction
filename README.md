@@ -27,7 +27,17 @@ run the following in your terminal:
 
 `pip install streamlit `
 
-### To run projet
+## Predictions made in this project
+
+The data was collected via the google forms, stored in google sheets in the form of csv file.
+Data is suppoesed to be collected in a similar manner as the dataset; answers to the available questions i.e rating from 1-5.
+Lastly the predictions are made using email-id as the key to the desired dataframe.
+
+**Below is a simple interface about how the result will look like**
+![image](one.jpg)
+![image](onee.jpg)
+
+### To run project
 
 In the directory of the file *app.py* Run the following:
 
