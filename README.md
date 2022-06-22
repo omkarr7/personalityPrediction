@@ -27,6 +27,7 @@ run the following in your terminal:
 
 `pip install streamlit `
 
+
 ## Predictions made in this project
 
 The data was collected via the google forms, stored in google sheets in the form of csv file.
@@ -38,6 +39,7 @@ Lastly the predictions are made using email-id as the key to the desired datafra
 ![image](onee.jpg)
 
 ### To run project
+
 In the directory of the file *app.py* Run the following:
 
 `streamlit run app.py`
