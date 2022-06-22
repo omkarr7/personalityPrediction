@@ -38,7 +38,6 @@ Lastly the predictions are made using email-id as the key to the desired datafra
 ![image](onee.jpg)
 
 ### To run project
-
 In the directory of the file *app.py* Run the following:
 
 `streamlit run app.py`
