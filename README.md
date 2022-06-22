@@ -24,5 +24,12 @@ Predictions here are made from the saved model.
 ## FrameWork used here is Streamlit
 To install streamlit; 
 run the following in your terminal:
+
 `pip install streamlit `
+
+### To run projet
+
+In the directory of the file *app.py* Run the following:
+
+`streamlit run app.py`
 
