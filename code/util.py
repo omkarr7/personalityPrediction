@@ -13,7 +13,7 @@ with open('persona.pickle','rb') as f:
     print('loaded succesfully')
 
 def get_info(email):
-    sheet_id = "1kxVnN6Be2etOONcSh9xwO2ObtNypA70-ChybXSMF024"
+    sheet_id = 'Your sheet id here'
     sheet_name = "Personality Prediction (Responses)"
     start_url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}"
 
