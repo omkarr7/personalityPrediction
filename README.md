@@ -34,8 +34,8 @@ Data is suppoesed to be collected in a similar manner as the dataset; answers to
 Lastly the predictions are made using email-id as the key to the desired dataframe.
 
 **Below is a simple interface about how the result will look like**
-![image](one.jpg)
-![image](onee.jpg)
+![image](images/one.jpg)
+![image](images/onee.jpg)
 
 ### To run project
 In the directory of the file *app.py* Run the following:
