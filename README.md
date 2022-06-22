@@ -10,7 +10,7 @@ This theory uses descriptors of common language and suggests five broad dimensio
     - Agreeableness (friendly/compassionate vs. challenging/detached)
     - Neuroticism (sensitive/nervous vs. secure/confident)
 
-[image](https://media.wbir.com/assets/WBIR/images/e641ed3f-e379-489a-8fa6-9d521ca79d18/e641ed3f-e379-489a-8fa6-9d521ca79d18_1920x1080.jpg)
+![image](https://media.wbir.com/assets/WBIR/images/e641ed3f-e379-489a-8fa6-9d521ca79d18/e641ed3f-e379-489a-8fa6-9d521ca79d18_1920x1080.jpg)
 
 
 ## Processing of the dataset
